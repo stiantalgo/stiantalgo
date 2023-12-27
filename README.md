@@ -23,6 +23,6 @@ Hi 👋 My name is Stian Talgø
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/stiantalgo"><img src="https://github-readme-stats.vercel.app/api?username=stiantalgo&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="stiantalgo's GitHub stats" /></a>
+<a href="http://www.github.com/stiantalgo"><img src="https://github-readme-stats.vercel.app/api?username=stiantalgo&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&show_icons=true" alt="stiantalgo's GitHub stats" /></a>
 
 <a href="http://www.github.com/stiantalgo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stiantalgo&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
